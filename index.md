@@ -19,3 +19,5 @@ My GitHub page is http://github.com/CogniscientCog.
 * Lab 12
 
     I liked Lab 12, Part 1 because it was one of the first times this semester that I stepped into new territory. I had studied a year of Java before this class, and had done very well. Thus, most of the labs I did tasked me with writing C++ code that I could directly translate over from my knowledge of Java.
+
+![The gradient image from Lab 12](images/outputfile.gif)
